@@ -8,5 +8,6 @@ public class App {
         System.out.println("hotfix first modify");
         System.out.println("master first modify");
         System.out.println("xhc first github");
+        System.out.println("xhc first full");
     }
 }
