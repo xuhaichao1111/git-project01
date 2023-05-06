@@ -7,5 +7,6 @@ public class App {
         System.out.println("Hello Git! xhc hotfix first");
         System.out.println("hotfix first modify");
         System.out.println("master first modify");
+        System.out.println("xhc first github");
     }
 }
