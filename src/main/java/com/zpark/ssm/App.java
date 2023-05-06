@@ -5,5 +5,6 @@ public class App {
         System.out.println("Hello Git!");
         System.out.println("Hello Git! xhc second");
         System.out.println("Hello Git! xhc hotfix first");
+        System.out.println("hotfix first modify");
     }
 }
